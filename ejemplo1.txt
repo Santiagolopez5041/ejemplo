@@ -1,2 +1,5 @@
 chanchito feliz
 otro chanchito
+chanchito triste
+chanchito enojado
+chanchito enamorado
